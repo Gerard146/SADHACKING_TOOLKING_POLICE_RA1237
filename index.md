@@ -10,6 +10,13 @@ posteriormente lo hemos instalado y lo hemos probado
 
 ## 3. JoeSandox (Gerardo)
 
+### ¿Que es?
+Joe Sandbox es una plataforma avanzada de análisis de malware. Se usa principalmente en ciberseguridad para analizar archivos sospechosos, URLs y comportamientos maliciosos dentro de un entorno controlado
+
+### Bibliografia 
+
+https://www.joesecurity.org/joe-reverser 
+
 ## 4.Hybrid Analysis (Gerardo)
 
 ## 5.Urlcrazy (Sancha)
